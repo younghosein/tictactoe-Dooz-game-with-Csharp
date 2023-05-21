@@ -1,0 +1,10 @@
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\bin\Debug\WindowsFormsAppXO.exe.config
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\bin\Debug\WindowsFormsAppXO.exe
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\bin\Debug\WindowsFormsAppXO.pdb
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.csprojAssemblyReference.cache
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.FormXO.resources
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.Properties.Resources.resources
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.csproj.GenerateResource.cache
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.csproj.CoreCompileInputs.cache
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.exe
+C:\Users\User Account\source\repos\WindowsFormsAppXO\WindowsFormsAppXO\obj\Debug\WindowsFormsAppXO.pdb

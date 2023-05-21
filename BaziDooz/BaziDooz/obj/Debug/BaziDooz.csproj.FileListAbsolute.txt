@@ -1,0 +1,24 @@
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\bin\Debug\BaziDooz.exe.config
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\bin\Debug\BaziDooz.exe
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\bin\Debug\BaziDooz.pdb
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.AssemblyReference.cache
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.SuggestedBindingRedirects.cache
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Form1.resources
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Properties.Resources.resources
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.GenerateResource.cache
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.CoreCompileInputs.cache
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.exe
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.pdb
+C:\Users\young sinatra\source\repos\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Form2.resources
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\bin\Debug\BaziDooz.exe.config
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\bin\Debug\BaziDooz.exe
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\bin\Debug\BaziDooz.pdb
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.AssemblyReference.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.SuggestedBindingRedirects.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Form1.resources
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Form2.resources
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.Properties.Resources.resources
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.GenerateResource.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.csproj.CoreCompileInputs.cache
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.exe
+C:\Users\young sinatra\Desktop\Project\C Sharp\Cs\BaziDooz\BaziDooz\obj\Debug\BaziDooz.pdb
